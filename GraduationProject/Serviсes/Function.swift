@@ -19,7 +19,7 @@ func getCurrencyRuningLine(currencies: Currencies) -> String {
         "eos": "EOS",
         "eur": "Euro",
         "gel": "Georgian lari",
-        "hkd": "Hong Kong dollar",
+//        "hkd": "Hong Kong dollar",
         "jpy": "Japanese yen",
         "ksm": "Kusama",
         "matic": "Polygon",
@@ -27,11 +27,11 @@ func getCurrencyRuningLine(currencies: Currencies) -> String {
         "neo": "NEO",
         "rub": "Russian ruble",
         "trx": "TRON",
-        "try": "Turkish lira",
+//        "try": "Turkish lira",
         "usdt": "Tether",
         "waves": "Waves",
         "xlm": "Stellar",
-        "xrp": "XRP",
+//        "xrp": "XRP",
     ]
     
     for currency in currencies.usd {
