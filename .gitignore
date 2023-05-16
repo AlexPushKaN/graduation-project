@@ -122,5 +122,6 @@ xcuserdata
 *.xcodeproj
 
 .DS_Store
+Contents.json
 
 # End of https://www.toptal.com/developers/gitignore/api/swift,swiftpackagemanager,objective-c
